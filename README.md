@@ -1,8 +1,4 @@
-Alright James — let’s step back and write this as if we’re introducing **GPT-2ART** (GPT-2 with Adaptive Resonance Theory) in a whitepaper-style note, **with the code demo you’ve been building as a reference**.
-
----
-
-# 🔹 Theory of GPT-2ART
+# 🔹 Theory of GPT2-ART
 
 ## 1. Background
 
